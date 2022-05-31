@@ -1,0 +1,47 @@
+#container
+{
+    margin:40px 500px 300px 300px;
+    padding:20px;
+    border:1px solid brown;
+    
+    color: black; 
+}
+h1{
+    color:rgb(219, 219, 22);
+}
+h3{
+    color: aqua;
+}
+label{
+    color: brown;
+    font-size: 25px;
+}
+.cat
+{
+    height:40%;
+    margin:20px;
+    font-size: 30px;
+    color: brown;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    border-color: aliceblue;
+    
+   
+}
+#enter{
+    margin-left: 30px;
+    width:90px;
+    font-size: 25px;
+    color: brown;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    border-color: aliceblue;
+    
+   
+}
+#text1{
+    width:80%;
+    height:40%;
+    font-size: 25px;
+    color: brown;
+}
